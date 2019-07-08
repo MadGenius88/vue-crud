@@ -15,11 +15,7 @@ yarn
 npm install
 ```
 3. Choose one of the following templates:
-- `empty`,
 - `simple-crud`,
-- `sandbox`,
-- `crm`,
-- `cms`
 
 ...and type e.g.:
 ``` console
