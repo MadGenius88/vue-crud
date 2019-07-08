@@ -120,9 +120,7 @@ To check out docs, visit :
 ## Contributing
 If you have an idea about improving Vue CRUD, do not hesitate.
 
-Developers interested in contributing should read the [Code of Conduct](./CODE_OF_CONDUCT.md).
-
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, Szczepan Masny
+Copyright (c) 2018-present, Calvin Secrest 
