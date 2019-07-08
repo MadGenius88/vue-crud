@@ -6,7 +6,7 @@ Do you want to test the application quickly, and you do not have an API ready? N
 
 1. Clone Vue CRUD:
 ``` console
-git clone git@github.com:szczepanmasny/vue-crud.git
+git clone git@github.com:madgenius88/vue-crud-ui.git
 ```
 2. Type following commands:
 ``` console
