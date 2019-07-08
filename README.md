@@ -123,4 +123,4 @@ If you have an idea about improving Vue CRUD, do not hesitate.
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, Calvin Secrest 
+Copyright (c) 2019-present, Calvin Secrest 
